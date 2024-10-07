@@ -15,3 +15,5 @@
 (6) Module 4; Class 2; Activity 7 ('census_groupby_solutions.ipynb')
 
 (7) https://stackoverflow.com/questions/20461165/how-to-convert-index-of-a-pandas-dataframe-into-a-column
+
+(8) https://stackoverflow.com/questions/43401903/python-order-dataframe-alphabetically
