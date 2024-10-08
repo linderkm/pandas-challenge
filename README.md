@@ -22,3 +22,5 @@
 (9) Module 4; Class 2; Activity 5 ('Pandas_recap_solution.ipynb')
 
 (10) Module 4; Class 3; Activity 1 ('merging_solution.ipynb')
+
+(11) https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.DataFrameGroupBy.size.html
