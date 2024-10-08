@@ -17,3 +17,8 @@
 (7) https://stackoverflow.com/questions/20461165/how-to-convert-index-of-a-pandas-dataframe-into-a-column
 
 (8) https://stackoverflow.com/questions/43401903/python-order-dataframe-alphabetically
+
+
+(9) Module 4; Class 2; Activity 5 ('Pandas_recap_solution.ipynb')
+
+(10) Module 4; Class 3; Activity 1 ('merging_solution.ipynb')
