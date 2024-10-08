@@ -26,3 +26,7 @@
 (11) https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.DataFrameGroupBy.size.html
 
 (12) Module 4; Class 3; Activity 5 ('mapping_solution.ipynb')
+
+(13) Module 4; Class 3; Activity 3 ('binning_solution.ipynb')
+
+(14) https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.copy.html
