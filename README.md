@@ -1,5 +1,13 @@
 # pandas-challenge
+---------------------------------------------------------------------------------------------------------------
+This readme includes sources used during program writing for this assignment. Code for this file is saved in filename 'analysis.ipynb'.
 
+The sources referenced below are linked to comments in the code, indicated by their number (For example: all references to (1) in the code refer to the source listed at (1) below in the README).
+
+
+
+Sources for analysis.ipynb
+--------------------------------------------------------------------------------------------------------
 
 
 (1) Module 4; Class 1; Activity 9 ('pandas_reading_files_solution.ipynb')
