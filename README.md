@@ -42,3 +42,5 @@ Sources for analysis.ipynb
 (15) passed the following prompt into ChatGPT: "write python code to combine five unique pandas groupby objects into a single dataframe. The five objects share a common series named "school type"."
 
 (16) Module 4; Class 1; Activity 3 ('creating_data_frame_solution.ipynb')
+
+(17) google AI code output from prompt: "how to change the format of a specific value in pandas dataframe"
