@@ -30,3 +30,5 @@
 (13) Module 4; Class 3; Activity 3 ('binning_solution.ipynb')
 
 (14) https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.copy.html
+
+(15) passed the following prompt into ChatGPT: "write python code to combine five unique pandas groupby objects into a single dataframe. The five objects share a common series named "school type"."
