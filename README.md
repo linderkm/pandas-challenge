@@ -1,6 +1,6 @@
 # pandas-challenge
 ---------------------------------------------------------------------------------------------------------------
-This readme includes sources used during program writing for this assignment. Code for this file is saved in filename 'analysis.ipynb'. This file is stored in the PyCitySchools folder.
+This readme includes sources used during program writing for this assignment. Code for this file is saved as 'analysis.ipynb'. This file is stored in the PyCitySchools folder.
 
 The sources referenced below are linked to comments in the code, indicated by their number (For example: all references to (1) in the code refer to the source listed at (1) below in the README).
 
