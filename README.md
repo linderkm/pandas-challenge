@@ -6,7 +6,7 @@
 
 (2) Module 4; Class 2; Activity 2 ('good_movies_solution.ipynb')
 
-(3) passed following prompt into ChatGPT: "write python code to count the number of instances where a value in column a and the value in column b are greater than 60. the data is stored in a pandas dataframe."
+(3) passed following prompt into ChatGPT: "write python code to count the number of instances where a value in column a and the value in column b are greater than or equal to 70. the data is stored in a pandas dataframe."
 
 (4) Module 4; Class 1; Activity 3 ('creating_data_frames_solution.ipynb')
 
