@@ -44,3 +44,9 @@ Sources for analysis.ipynb
 (16) Module 4; Class 1; Activity 3 ('creating_data_frame_solution.ipynb')
 
 (17) google AI code output from prompt: "how to change the format of a specific value in pandas dataframe"
+
+(18) Module 4; Class 2; Activity 1 ('loc_iloc_solution.ipynb')
+
+(19) Module 4; Class 2; Activity 9 ('search_for_the_worst_solution.ipynb')
+
+(20) Module 4; Class 2; Activity 6 (groupby_solution.ipynb')
