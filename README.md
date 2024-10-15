@@ -50,3 +50,7 @@ Sources for analysis.ipynb
 (19) Module 4; Class 2; Activity 9 ('search_for_the_worst_solution.ipynb')
 
 (20) Module 4; Class 2; Activity 6 (groupby_solution.ipynb')
+
+(21) https://github.com/pandas-dev/pandas/issues/57031
+
+(22) https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html
